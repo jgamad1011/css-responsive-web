@@ -242,10 +242,12 @@ div.logo{
 		padding: 0;
 	}
 	.gallery .column{
-		width: 35%;
+		width: 38%;
 		margin: 10px;
 		float: left;
 		padding: 0;
+		overflow: hidden;
+		text-overflow: hidden;
 	}
 
 }
@@ -268,7 +270,7 @@ div.logo{
 		padding: 0;
 	}
 	.gallery .column{
-		margin: 10px;
+		margin: 6px;
 		padding: 0;
 	}
 }
